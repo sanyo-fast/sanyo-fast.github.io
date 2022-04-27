@@ -1,3 +1,5 @@
+* webページは https://sanyo-fast.github.io/
+
 ## 開発手順
 * [要件定義](https://qiita.com/Saku731/items/741fcf0f40dd989ee4f8) を参照
 
